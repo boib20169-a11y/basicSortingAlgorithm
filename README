@@ -1,3 +1,3 @@
-Sorting Algorithm Analyzer is a terminal-based application built in C to practically evaluate algorithmic efficiency and data manipulation. Operating directly through the Windows shell, the program implements and compares Merge Sort and Insertion Sort to demonstrate algorithmic optimization.
-
-The project highlights the real-world performance trade-offs between different time complexities, leveraging Merge Sort's O(nlogn) efficiency for large, randomized datasets, and Insertion Sort's low overhead for smaller or nearly-sorted arrays.
+I built this command-line tool to step away from theoretical textbook definitions and actually see sorting algorithms work in the real world. 
+Running directly in the terminal, it pitches Merge Sort against Insertion Sort to show exactly how dataset size and randomness change performance. 
+It’s a practical exploration of when to use a heavy-duty algorithm versus a simpler one.
